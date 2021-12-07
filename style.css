@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img {
+    width: 200px;
+    height: 80%;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flamingo {
+    margin-top: 540px;
+   
+    
+}
+.giraffe {
+    margin-top: 700px;
+   
+}
+.rabbit {
+    margin-top: 700px;
+
+}
